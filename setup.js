@@ -44,7 +44,7 @@ flashcards.openDeck('300');
 if (!flashcards.deckLength()) {
   flashcards.setDisplayName('Deutsch b1'),
   flashcards.addCards(
-    ['Ich', ["Identity and Access Management", "Identity Access Management"]],
+    ['Ich', ["ana", "me"]],
 
   ); 
 }
