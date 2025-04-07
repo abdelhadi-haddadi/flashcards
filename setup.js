@@ -19,7 +19,8 @@ if (!flashcards.deckLength()) {
     ['salt', 'halen'],
     ['salty', 'hallt'],
     ['pepper', ['pubr', 'pubur']],
-    ['coffee', 'coffi']);
+    ['coffee', 'coffi']
+  );
 }
 
 flashcards.openDeck('300');
@@ -36,5 +37,6 @@ if (!flashcards.deckLength()) {
     ['S3', 'Simple Storage Service'],
     ['MQ', 'Message Queue'],
     ['RTOS', ['Real Time Operating System', 'Real-time Operating System']],
-    ['EMR', ["Elastic MapReduce", "Elastic Map Reduce"]]); 
+    ['EMR', ["Elastic MapReduce", "Elastic Map Reduce"]]
+  ); 
 }
