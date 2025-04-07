@@ -40,7 +40,7 @@ if (!flashcards.deckLength()) {
     ['EMR', ["Elastic MapReduce", "Elastic Map Reduce"]]
   ); 
 }
-flashcards.openDeck('300');
+flashcards.openDeck('200');
 if (!flashcards.deckLength()) {
   flashcards.setDisplayName('Deutsch b1'),
   flashcards.addCards(
